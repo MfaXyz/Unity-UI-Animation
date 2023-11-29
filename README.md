@@ -2,7 +2,7 @@
 Simple Unity UI animation tool!
 
 ## Preview
-![Project Preview](/path/to/preview.png)
+![Project Preview](https://github.com/MfaXyz/Unity-UI-Animation/blob/main/Assets/Preview.png)
 
 # XyzUITransition.cs 
 *For moving UI elements attach XyzUITransition.cs to your object:*
